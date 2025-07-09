@@ -1,4 +1,4 @@
-﻿﻿## How to run
+## How to run
 
 1. Cài đặt Docker
 2. Chạy lệnh sau trong thư mục này:
